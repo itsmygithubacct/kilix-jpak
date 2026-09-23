@@ -1,3 +1,5 @@
+> **Moved.** kilix-jpak now lives in the [kilix-games](https://github.com/itsmygithubacct/kilix-games/tree/main/kilix-jpak) monorepo, with its full history, and builds against that repository's shared kilix-game-sdk. This repository is archived; its code stays here for installs pinned to older commits.
+
 # Kilix JPAK: Deep Salvage
 
 Kilix JPAK is a complete clean-room action-puzzle game for Kitty-protocol
